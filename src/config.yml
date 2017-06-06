@@ -1,0 +1,5 @@
+MESSAGES:
+    FLAG_PREFIX: "&7[&c!&7] "
+    FLAG_MESSAGE: "&c%PLAYER% &7has been flagged for anvil spamming &8(&c%VELOCITY%&fVL&8)"
+SETTINGS:
+    VELOCITY_TO_FLAG: 3

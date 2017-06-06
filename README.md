@@ -1,0 +1,2 @@
+# AnvilSpamDetect
+This flags players that continually attempt to place an anvil (which causes sound spam, even if cancelled). You can configure the message and the amount of interactions it takes to flag a player.

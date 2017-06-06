@@ -1,0 +1,4 @@
+name: AnvilSpamDetect
+main: me.joeleoli.anvilspam.DetectPlugin
+author: joeleoli
+version: 1.0
