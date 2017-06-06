@@ -75,6 +75,7 @@ public class DataHandler {
     }
 
     public void clear(UUID uuid) {
+        this.velocities.remove(uuid);
         this.interacts.remove(uuid);
     }
 
